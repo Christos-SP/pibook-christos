@@ -14,7 +14,7 @@ title                    : "Ο Προγραμματισμός της Διάδρ�
 title_separator          : "-"
 name                     : "pibook"
 description              : "Programming Interactivity Greek Book."
-url                      : "https://mypibook-spendas.netlify.app"
+url                      : "https://mypibook-christos.netlify.app"
 baseurl                  : ""
 repository               : "https://github.com/Christos-SP/pibook-spendas.git"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
